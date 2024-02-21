@@ -1,0 +1,13 @@
+,Abbreviated District Name,Full District Name,Type of Zoning District,zone_pct,single_family
+916,Pub,Public Precinct (Waikiki Special District),Nonresidential,0.0,False
+973,MU,Mixed Use Precinct (Kakaako Special Design District),Mixed with Residential,0.1,False
+698,B-1,Business - Neighborhood,Nonresidential,0.3,False
+974,PU,Public Use Precinct (Kakaako Special Design District),Nonresidential,0.6,False
+969,Aloha,State Jurisdiction: Aloha Tower Project (Admin. by Aloha Tower Development Corp.),Nonresidential,1.7000000000000002,False
+975,WI,Waterfront Industrial Precinct (Kakaako Special Design District),Nonresidential,4.3999999999999995,False
+971,BMX-4,Business Mixed Use - Central,Mixed with Residential,6.1,False
+726,B-2,Business - Community,Nonresidential,8.200000000000001,False
+627,A-2,Apartment - Medium-Density,Primarily Residential,9.3,False
+786,P-2,Preservation - General,Nonresidential,11.4,False
+950,BMX-3,Business Mixed Use - Community,Mixed with Residential,11.700000000000001,False
+966,Kak,State Jurisdiction: Kakaako Community Development (Admin. by HCDA),Mixed with Residential,45.9,False

@@ -1,0 +1,11 @@
+,Abbreviated District Name,Full District Name,Type of Zoning District,zone_pct,single_family
+699,B-1,Business - Neighborhood,Nonresidential,0.1,False
+935,A-3,Apartment - High-Density,Primarily Residential,0.2,False
+597,A-1,Apartment - Low-Density,Primarily Residential,0.4,False
+920,R-3.5,"Residential - 3,500 sf",Primarily Residential,1.4000000000000001,True
+951,BMX-3,Business Mixed Use - Community,Mixed with Residential,1.5,False
+787,P-2,Preservation - General,Nonresidential,7.1,False
+818,R-10,"Residential - 10,000 sf",Primarily Residential,8.5,True
+836,R-5,"Residential - 5,000 sf",Primarily Residential,15.2,True
+628,A-2,Apartment - Medium-Density,Primarily Residential,26.3,False
+755,P-1,Preservation - Restricted,Nonresidential,39.300000000000004,False

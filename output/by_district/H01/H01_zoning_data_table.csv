@@ -1,0 +1,42 @@
+,Abbreviated District Name,Full District Name,Type of Zoning District,zone_pct,single_family
+204,V-.75,Resort-Hotel - 750 square feet,Mixed with Residential,0.0,False
+165,RM-4,"Multiple-Family Residential - 4,000 square feet",Primarily Residential,0.0,True
+162,RM-3.5,"Multiple-Family Residential - 3,500 square feet",Primarily Residential,0.0,True
+158,RM-2,"Multiple-Family Residential - 2,000 square feet",Primarily Residential,0.0,False
+156,RM-10,"Multiple-Family Residential - 10,000 square feet",Primarily Residential,0.0,True
+152,RM-1,"Multiple-Family Residential - 1,000 square feet",Primarily Residential,0.0,False
+147,RD-3.75,Double-Family Residential Districts,Primarily Residential,0.0,True
+139,RA-.5a,Residential & Agricultural - Minimum 0.5 acres,Mixed with Residential,0.0,True
+135,RA-2a,Residential & Agricultural - Minimum 2 acres,Mixed with Residential,0.0,True
+129,RA-1a,Residential & Agricultural - Minimum 1 acre,Mixed with Residential,0.0,True
+115,ML-20,"Limited Industrial - 20,000 square feet",Nonresidential,0.0,False
+113,MG-5a,General Industrial - 5 acres,Nonresidential,0.0,False
+108,MG-1a,General Industrial - 1 acres,Nonresidential,0.0,False
+98,FA-5a,Family Agricultural District - minimum 5 acres,Mixed with Residential,0.0,False
+92,FA-3a,Family Agricultural District - minimum 3 acres,Mixed with Residential,0.0,False
+86,FA-2a,Family Agricultural District - minimum 2 acres,Mixed with Residential,0.0,False
+179,RS-10a,Single-Family Residential - 10 acres,Primarily Residential,0.0,True
+195,RS-5a,Single-Family Residential - 5 acres,Primarily Residential,0.0,True
+67,CV-10,"Village Commercial - 10,000 square feet",Mixed with Residential,0.0,False
+62,CN-7.5,"Neighborhood Commercial - 7,500 square feet",Mixed with Residential,0.0,False
+23,A-2a,Agricultural District - minimum 2 acres,Nonresidential,0.0,False
+60,CN-40,"Neighborhood Commercial - 40,000 square feet",Mixed with Residential,0.0,False
+53,CN-10,"Neighborhood Commercial - 10,000 square feet",Mixed with Residential,0.0,False
+51,CDH,Downtown Hilo Commercial District,Mixed with Residential,0.0,False
+26,A-35a,Agricultural District - minimum 35 acres,Nonresidential,0.0,False
+74,CV-7.5,"Village Commercial - 7,500 square feet",Mixed with Residential,0.0,False
+47,A-6a,Agricultural District - minimum 6 acres,Nonresidential,0.0,False
+188,RS-20,"Single-Family Residential - 20,000 squre feet",Primarily Residential,0.0,True
+28,A-3a,Agricultural District - minimum 3 acres,Nonresidential,0.1,False
+79,FA-1a,Family Agricultural District - minimum 1 acre,Mixed with Residential,0.1,False
+197,RS-7.5,"Single-Family Residential - 7,500 squre feet",Primarily Residential,0.1,True
+48,A-80a,Agricultural District - minimum 80 acres,Nonresidential,0.1,False
+180,RS-15,"Single-Family Residential - 15,000 square feet",Primarily Residential,0.2,True
+171,RS-10,"Single-Family Residential - 10,000 square feet",Primarily Residential,0.3,True
+7,A-1a,Agricultural District - minimum 1 acre,Nonresidential,0.3,False
+121,OPEN,Open District,Nonresidential,0.4,False
+0,A-10a,Agricultural District - minimum 10 acres,Nonresidential,0.8999999999999999,False
+40,A-5a,Agricultural District - minimum 5 acres,Nonresidential,2.1999999999999997,False
+15,A-20a,Agricultural District - minimum 20 acres,Nonresidential,10.8,False
+36,A-40a,Agricultural District - minimum 40 acres,Nonresidential,30.8,False
+100,FR,Forest Reserve,Nonresidential,52.900000000000006,False

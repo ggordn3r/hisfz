@@ -1,0 +1,33 @@
+,Abbreviated District Name,Full District Name,Type of Zoning District,zone_pct,single_family
+406,SPA-A,Special Planning Area - A,Mixed with Residential,0.0,False
+378,R-20,Residential (20 units/acre),Primarily Residential,0.0,True
+391,R-6/PD,Residential (6 units/acre)/Project District,Primarily Residential,0.0,True
+374,R-15,Residential (15 units/acre),Primarily Residential,0.0,True
+372,R-10/ST-P,Residential (10 units/acre)/Special Treatment - Public,Primarily Residential,0.0,True
+371,R-10/PD,Residential (10 units/acre)/Project District,Primarily Residential,0.0,True
+393,RR,Resort,Mixed with Residential,0.0,False
+394,RR-10,Resort (10 units/acre),Mixed with Residential,0.0,False
+362,O/ST-P,Open Space//Special Treatment - Public,Nonresidential,0.0,False
+361,O/ST-O,Open Space/Special Treatment - Open,Nonresidential,0.0,False
+381,R-2/PD,Residential (2 units/acre)/Project District,Primarily Residential,0.0,True
+358,O/ST-C,Open Space/Special Treatment - Cultural,Nonresidential,0.0,False
+351,IL,Industrial Limited,Nonresidential,0.0,False
+348,IG,Industrial General,Nonresidential,0.0,False
+347,CN/PD,Commercial Neighborhood/Project District,Mixed with Residential,0.0,False
+344,CN,Commercial Neighborhood,Mixed with Residential,0.0,False
+341,CG/ST-P,Commercial General/Special Treatment - Public,Mixed with Residential,0.0,False
+340,CG/PD,Commercial General/Project District,Mixed with Residential,0.0,False
+337,CG,Commercial General,Mixed with Residential,0.0,False
+357,O/PD,Open Space/Project District,Nonresidential,0.0,False
+385,R-4/ST-P,Residential (4 units/acre)/Special Treatment - Public,Primarily Residential,0.0,True
+397,RR-20,Resort (20 units/acre),Mixed with Residential,0.1,False
+400,RUR-1,Rural (1 unit/acre),Mixed with Residential,0.1,False
+368,R-10,Residential (10 units/acre),Primarily Residential,0.1,True
+375,R-2,Residential (2 units/acre),Primarily Residential,0.1,True
+403,RUR-1/ST-P,Rural (1 unit/acre)/Special Treatment - Public,Nonresidential,0.1,False
+388,R-6,Residential (6 units/acre),Primarily Residential,0.5,True
+365,O/ST-R,Open Space//Special Treatment - Ecological,Nonresidential,0.5,False
+382,R-4,Residential (4 units/acre),Primarily Residential,0.7000000000000001,True
+354,O,Open Space,Nonresidential,11.0,False
+331,A,Agricultural,Nonresidential,15.7,False
+334,C,Conservation,Nonresidential,69.6,False

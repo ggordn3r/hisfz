@@ -1,0 +1,12 @@
+,Abbreviated District Name,Full District Name,Type of Zoning District,zone_pct,single_family
+940,AMX-2,Apartment Mixed Use - Medium-Density,Mixed with Residential,0.3,False
+964,AMX-3,Apartment Mixed Use - High-Density,Mixed with Residential,0.3,False
+596,A-1,Apartment - Low-Density,Primarily Residential,0.8,False
+626,A-2,Apartment - Medium-Density,Primarily Residential,2.6,False
+949,BMX-3,Business Mixed Use - Community,Mixed with Residential,3.8,False
+968,ApartMix,Apartment Mixed Use Subprecinct (Waikiki Special District),Mixed with Residential,5.4,False
+785,P-2,Preservation - General,Nonresidential,6.1,False
+934,A-3,Apartment - High-Density,Primarily Residential,7.6,False
+967,Apart,Apartment Precinct (Waikiki Special District),Mixed with Residential,16.8,False
+915,Pub,Public Precinct (Waikiki Special District),Nonresidential,25.8,False
+931,ResMix,Resort Mixed Use Precinct (Waikiki Special District),Mixed with Residential,30.4,False

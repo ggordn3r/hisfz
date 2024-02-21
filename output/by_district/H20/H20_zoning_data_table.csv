@@ -1,0 +1,15 @@
+,Abbreviated District Name,Full District Name,Type of Zoning District,zone_pct,single_family
+593,A-1,Apartment - Low-Density,Primarily Residential,0.0,False
+930,ResMix,Resort Mixed Use Precinct (Waikiki Special District),Mixed with Residential,0.0,False
+695,B-1,Business - Neighborhood,Nonresidential,0.2,False
+882,F-1,Preservation - Military and Federal,Nonresidential,0.2,False
+914,Pub,Public Precinct (Waikiki Special District),Nonresidential,0.4,False
+903,R-20,"Residential - 20,000 sf",Primarily Residential,1.5,True
+622,A-2,Apartment - Medium-Density,Primarily Residential,1.7000000000000002,False
+722,B-2,Business - Community,Nonresidential,2.6,False
+815,R-10,"Residential - 10,000 sf",Primarily Residential,7.7,True
+917,R-3.5,"Residential - 3,500 sf",Primarily Residential,10.8,True
+864,R-7.5,"Residential - 7,500 sf",Primarily Residential,14.499999999999998,True
+781,P-2,Preservation - General,Nonresidential,16.0,False
+752,P-1,Preservation - Restricted,Nonresidential,19.0,False
+833,R-5,"Residential - 5,000 sf",Primarily Residential,25.0,True

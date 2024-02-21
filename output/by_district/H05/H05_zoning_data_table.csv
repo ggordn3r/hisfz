@@ -1,0 +1,36 @@
+,Abbreviated District Name,Full District Name,Type of Zoning District,zone_pct,single_family
+4,A-10a,Agricultural District - minimum 10 acres,Nonresidential,0.0,False
+279,CV-40,"Village Commercial - 40,000 square feet",Mixed with Residential,0.0,False
+277,APD,Agricultural Project Districts,Mixed with Residential,0.0,False
+274,A-255a,Agricultural District - minimum 255 acres,Nonresidential,0.0,False
+272,A-200a,Agricultural District - minimum 200 acres,Nonresidential,0.0,False
+270,V-1.5,"Resort-Hotel - 1,500 square feet",Mixed with Residential,0.0,False
+255,CV-20,"Village Commercial - 20,000 square feet",Mixed with Residential,0.0,False
+244,RM-3,"Multiple-Family Residential - 3,000 square feet",Primarily Residential,0.0,False
+238,RM-1.5,"Multiple-Family Residential - 1,500 square feet",Primarily Residential,0.0,False
+230,MG-20,"General Industrial - 20,000 square feet",Nonresidential,0.0,False
+226,MCX-20,"Industrial-Commercial Mixed Use - 20,000 square feet",Nonresidential,0.0,False
+200,RS-7.5,"Single-Family Residential - 7,500 squre feet",Primarily Residential,0.0,True
+184,RS-15,"Single-Family Residential - 15,000 square feet",Primarily Residential,0.0,True
+280,MCX-3a,Industrial-Commercial Mixed Use - 3 acres,Nonresidential,0.0,False
+160,RM-2,"Multiple-Family Residential - 2,000 square feet",Primarily Residential,0.0,False
+281,RM-2.5,"Multiple-Family Residential - 2,500 square feet",Primarily Residential,0.0,False
+49,A-80a,Agricultural District - minimum 80 acres,Nonresidential,0.0,False
+118,ML-20,"Limited Industrial - 20,000 square feet",Nonresidential,0.0,False
+110,MG-1a,General Industrial - 1 acres,Nonresidential,0.0,False
+37,A-40a,Agricultural District - minimum 40 acres,Nonresidential,0.0,False
+143,RA-.5a,Residential & Agricultural - Minimum 0.5 acres,Mixed with Residential,0.0,True
+75,CV-7.5,"Village Commercial - 7,500 square feet",Mixed with Residential,0.0,False
+70,CV-10,"Village Commercial - 10,000 square feet",Mixed with Residential,0.0,False
+64,CN-7.5,"Neighborhood Commercial - 7,500 square feet",Mixed with Residential,0.0,False
+56,CN-10,"Neighborhood Commercial - 10,000 square feet",Mixed with Residential,0.0,False
+175,RS-10,"Single-Family Residential - 10,000 square feet",Primarily Residential,0.1,True
+191,RS-20,"Single-Family Residential - 20,000 squre feet",Primarily Residential,0.1,True
+275,A-8000a,Agricultural District - minimum 8000 acres,Nonresidential,0.7000000000000001,False
+11,A-1a,Agricultural District - minimum 1 acre,Nonresidential,1.5,False
+32,A-3a,Agricultural District - minimum 3 acres,Nonresidential,1.7999999999999998,False
+43,A-5a,Agricultural District - minimum 5 acres,Nonresidential,6.800000000000001,False
+125,OPEN,Open District,Nonresidential,13.100000000000001,False
+268,NP,National Park,Nonresidential,14.099999999999998,False
+104,FR,Forest Reserve,Nonresidential,29.299999999999997,False
+19,A-20a,Agricultural District - minimum 20 acres,Nonresidential,31.8,False

@@ -1,0 +1,45 @@
+,Abbreviated District Name,Full District Name,Type of Zoning District,zone_pct,single_family
+402,RUR-1,Rural (1 unit/acre),Mixed with Residential,0.0,False
+417,O/ST-R/ST-C,Open Space/Special Treatment - Ecological/Special Treatment - Cultural,Nonresidential,0.0,False
+416,O/ST-P/ST-C,Open Space//Special Treatment - Public/Special Treatment - Cultural,Nonresidential,0.0,False
+415,O/ST-CE,Open Space/Special Treatment - Coastal Edge,Nonresidential,0.0,False
+414,CN/ST-P,Commercial Neighborhood/Special Treatment - Public,Mixed with Residential,0.0,False
+413,A/ST-CE,Agricultural/Special Treatment - Coastal Edge,Nonresidential,0.0,False
+411,R-8,Residential (8 units/acre),Primarily Residential,0.0,True
+409,R-6/ST-P,Residential (6 units/acre)/Special Treatment - Public,Primarily Residential,0.0,True
+405,RUR-1/ST-P,Rural (1 unit/acre)/Special Treatment - Public,Nonresidential,0.0,False
+430,ST-C,Special Treatment - Cultural,Nonresidential,0.0,False
+399,RR-20,Resort (20 units/acre),Mixed with Residential,0.0,False
+396,RR-10,Resort (10 units/acre),Mixed with Residential,0.0,False
+392,R-6/PD,Residential (6 units/acre)/Project District,Primarily Residential,0.0,True
+421,PD/ST-C,Project District/Special Treatment - Cultural,Mixed with Residential,0.0,False
+387,R-4/ST-P,Residential (4 units/acre)/Special Treatment - Public,Primarily Residential,0.0,True
+422,PD/ST-CE,Project District/Special Treatment - Coastal Edge,Mixed with Residential,0.0,False
+423,R-10/ST-CE,Residential (10 units/acre)/Special Treatment - Coastal Edge,Primarily Residential,0.0,True
+424,R-2/ST-CE,Residential (2 units/acre)/Special Treatment - Coastal Edge,Primarily Residential,0.0,True
+373,R-10/ST-P,Residential (10 units/acre)/Special Treatment - Public,Primarily Residential,0.0,True
+425,R-4/ST-CE,Residential (4 units/acre)/Special Treatment - Coastal Edge,Primarily Residential,0.0,True
+367,O/ST-R,Open Space//Special Treatment - Ecological,Nonresidential,0.0,False
+426,RR-1,Resort (1 unit/acre),Mixed with Residential,0.0,False
+360,O/ST-C,Open Space/Special Treatment - Cultural,Nonresidential,0.0,False
+427,RR-1/ST-C,Resort (1 unit/acre)/Special Treatment - Cultural,Mixed with Residential,0.0,False
+353,IL,Industrial Limited,Nonresidential,0.0,False
+350,IG,Industrial General,Nonresidential,0.0,False
+346,CN,Commercial Neighborhood,Mixed with Residential,0.0,False
+343,CG/ST-P,Commercial General/Special Treatment - Public,Mixed with Residential,0.0,False
+339,CG,Commercial General,Mixed with Residential,0.0,False
+428,RR-4,Resort (4 units/acre),Mixed with Residential,0.0,False
+420,PDC,Plan Development Community,Mixed with Residential,0.0,False
+419,PD,Project District,Mixed with Residential,0.0,False
+431,ST-R,Special Treatment - Ecological,Nonresidential,0.1,False
+380,R-20,Residential (20 units/acre),Primarily Residential,0.1,True
+370,R-10,Residential (10 units/acre),Primarily Residential,0.1,True
+364,O/ST-P,Open Space//Special Treatment - Public,Nonresidential,0.1,False
+418,PC,Plantation Camp,Mixed with Residential,0.1,False
+377,R-2,Residential (2 units/acre),Primarily Residential,0.2,True
+390,R-6,Residential (6 units/acre),Primarily Residential,0.3,True
+384,R-4,Residential (4 units/acre),Primarily Residential,0.4,True
+429,SPD,See Planning Department,Nonresidential,0.7000000000000001,False
+356,O,Open Space,Nonresidential,14.2,False
+333,A,Agricultural,Nonresidential,21.6,False
+336,C,Conservation,Nonresidential,40.9,False

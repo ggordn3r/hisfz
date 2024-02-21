@@ -1,0 +1,15 @@
+,Abbreviated District Name,Full District Name,Type of Zoning District,zone_pct,single_family
+970,Aloha,State Jurisdiction: Aloha Tower Project (Admin. by Aloha Tower Development Corp.),Nonresidential,0.1,False
+757,P-1,Preservation - Restricted,Nonresidential,0.4,False
+599,A-1,Apartment - Low-Density,Primarily Residential,0.8,False
+952,BMX-3,Business Mixed Use - Community,Mixed with Residential,2.7,False
+728,B-2,Business - Community,Nonresidential,2.9000000000000004,False
+883,F-1,Preservation - Military and Federal,Nonresidential,3.2,False
+922,R-3.5,"Residential - 3,500 sf",Primarily Residential,3.5000000000000004,True
+976,I-2,Industrial - Intensive,Nonresidential,4.9,False
+972,BMX-4,Business Mixed Use - Central,Mixed with Residential,6.2,False
+630,A-2,Apartment - Medium-Density,Primarily Residential,6.3,False
+838,R-5,"Residential - 5,000 sf",Primarily Residential,11.4,True
+789,P-2,Preservation - General,Nonresidential,15.2,False
+998,IMX-1,Industrial-Commercial Mixed Use,Nonresidential,18.4,False
+994,I-3,Industrial - Waterfront,Nonresidential,23.1,False

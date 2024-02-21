@@ -1,0 +1,21 @@
+,Abbreviated District Name,Full District Name,Type of Zoning District,zone_pct,single_family
+269,V-1.5,"Resort-Hotel - 1,500 square feet",Mixed with Residential,0.0,False
+266,CV-38,"Village Commercial - 38,000 square feet",Mixed with Residential,0.0,False
+254,CV-20,"Village Commercial - 20,000 square feet",Mixed with Residential,0.0,False
+225,MCX-20,"Industrial-Commercial Mixed Use - 20,000 square feet",Nonresidential,0.0,False
+219,CN-20,"Neighborhood Commercial - 20,000 square feet",Mixed with Residential,0.0,False
+69,CV-10,"Village Commercial - 10,000 square feet",Mixed with Residential,0.0,False
+82,FA-1a,Family Agricultural District - minimum 1 acre,Mixed with Residential,0.0,False
+88,FA-2a,Family Agricultural District - minimum 2 acres,Mixed with Residential,0.0,False
+159,RM-2,"Multiple-Family Residential - 2,000 square feet",Primarily Residential,0.0,False
+142,RA-.5a,Residential & Agricultural - Minimum 0.5 acres,Mixed with Residential,0.2,True
+174,RS-10,"Single-Family Residential - 10,000 square feet",Primarily Residential,0.3,True
+183,RS-15,"Single-Family Residential - 15,000 square feet",Primarily Residential,0.4,True
+124,OPEN,Open District,Nonresidential,2.6,False
+3,A-10a,Agricultural District - minimum 10 acres,Nonresidential,4.3,False
+31,A-3a,Agricultural District - minimum 3 acres,Nonresidential,6.3,False
+42,A-5a,Agricultural District - minimum 5 acres,Nonresidential,9.3,False
+10,A-1a,Agricultural District - minimum 1 acre,Nonresidential,12.4,False
+103,FR,Forest Reserve,Nonresidential,16.2,False
+267,NP,National Park,Nonresidential,21.7,False
+18,A-20a,Agricultural District - minimum 20 acres,Nonresidential,24.5,False

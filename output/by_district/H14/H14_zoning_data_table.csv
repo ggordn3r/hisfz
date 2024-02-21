@@ -1,0 +1,31 @@
+,Abbreviated District Name,Full District Name,Type of Zoning District,zone_pct,single_family
+590,HD-2,HD-2 Historic District 2,Mixed with Residential,0.0,False
+530,D-1,D-1 Duplex,Primarily Residential,0.0,False
+522,B-3,B-3 Business - Central District,Mixed with Residential,0.0,False
+559,H-1,H-1 Hotel,Mixed with Residential,0.0,False
+565,OS,Open Space,Nonresidential,0.0,False
+502,PK,PK Park,Nonresidential,0.0,False
+570,OS-2,OS-2 Open Space (Active),Nonresidential,0.0,False
+484,M-2,M-2 Heavy Industrial,Nonresidential,0.0,False
+490,P-1,P-1 Public/Quasi-Public,Nonresidential,0.0,False
+581,R-0,R-0 Zero Lot Line Residential,Primarily Residential,0.0,True
+551,A-1,A-1 Apartment,Primarily Residential,0.1,False
+466,H-M,H-M Hotel,Mixed with Residential,0.1,False
+462,H-2,H-2 Hotel,Mixed with Residential,0.1,False
+459,H,H Hotel,Mixed with Residential,0.1,False
+589,HD-1,HD-1 Historic District 1,Mixed with Residential,0.1,False
+457,B-2,B-2 Business-Community,Mixed with Residential,0.1,False
+446,AP,AP Airport,Nonresidential,0.1,False
+588,CID,CID Napili Bay Civic Improvement District,Primarily Residential,0.1,False
+478,M-1,M-1 Light Industrial,Nonresidential,0.1,False
+554,BR,BR Business - Resort,Nonresidential,0.1,False
+544,RU-0.5,RU-0.5 Rural - 1/2 Acre,Mixed with Residential,0.2,False
+437,A-2,A-2 Apartment,Primarily Residential,0.3,False
+508,R-1,R-1 Residential,Primarily Residential,0.3,True
+514,R-2,R-2 Residential,Primarily Residential,0.3,True
+573,OZ,OZ Open Zone,Nonresidential,0.4,False
+577,PK(GC),PK/GC Park Golf Course,Nonresidential,0.5,False
+520,R-3,R-3 Residential,Primarily Residential,1.3,True
+496,PD,PD Project District,Primarily Residential,2.0,False
+443,AG,AG Agriculture,Nonresidential,38.9,False
+472,INT,INT Interim,Nonresidential,53.2,False

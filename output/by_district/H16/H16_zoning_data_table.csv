@@ -1,0 +1,26 @@
+,Abbreviated District Name,Full District Name,Type of Zoning District,zone_pct,single_family
+363,O/ST-P,Open Space//Special Treatment - Public,Nonresidential,0.0,False
+408,R-6/ST-P,Residential (6 units/acre)/Special Treatment - Public,Primarily Residential,0.0,True
+386,R-4/ST-P,Residential (4 units/acre)/Special Treatment - Public,Primarily Residential,0.0,True
+342,CG/ST-P,Commercial General/Special Treatment - Public,Mixed with Residential,0.0,False
+345,CN,Commercial Neighborhood,Mixed with Residential,0.0,False
+401,RUR-1,Rural (1 unit/acre),Mixed with Residential,0.0,False
+395,RR-10,Resort (10 units/acre),Mixed with Residential,0.0,False
+369,R-10,Residential (10 units/acre),Primarily Residential,0.1,True
+366,O/ST-R,Open Space//Special Treatment - Ecological,Nonresidential,0.1,False
+412,UNV,University District,Nonresidential,0.1,False
+359,O/ST-C,Open Space/Special Treatment - Cultural,Nonresidential,0.1,False
+404,RUR-1/ST-P,Rural (1 unit/acre)/Special Treatment - Public,Nonresidential,0.2,False
+352,IL,Industrial Limited,Nonresidential,0.2,False
+398,RR-20,Resort (20 units/acre),Mixed with Residential,0.2,False
+410,R-8,Residential (8 units/acre),Primarily Residential,0.3,True
+379,R-20,Residential (20 units/acre),Primarily Residential,0.4,True
+349,IG,Industrial General,Nonresidential,0.4,False
+338,CG,Commercial General,Mixed with Residential,0.6,False
+389,R-6,Residential (6 units/acre),Primarily Residential,0.6,True
+376,R-2,Residential (2 units/acre),Primarily Residential,0.8999999999999999,True
+383,R-4,Residential (4 units/acre),Primarily Residential,1.0,True
+407,IG/ST-P,Industrial General/Special Treatment - Public,Nonresidential,1.2,False
+355,O,Open Space,Nonresidential,15.2,False
+335,C,Conservation,Nonresidential,35.6,False
+332,A,Agricultural,Nonresidential,41.5,False
